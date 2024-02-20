@@ -2,7 +2,7 @@
 - summary: |
     Не работает поиск товара по ключевым словам
   environment: |
-    Google Chrom
+    Google Chrome   107.0.5304.121 (Официальная сборка) (64 бит)
     ОС Windows 11
   steps-to-reproduce: |
     1. Зайти на главную страницу сайта
